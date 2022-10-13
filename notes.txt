@@ -1,0 +1,17 @@
+***  Typescript
+  - an opensource language and is superset of JavaScript
+
+_ Offers additional features to JavaScript including static Types  
+_ Using types is completely optional 
+_ Compiles down to regular JS
+_ Can be used for front-end JS as well as backend with Node.js
+_ Types from 3rd party libraries can be added with Type Definitions
+
+***
+
+Installing the TYPEScript Compiler: 
+  Globally: (sudo) npm i -g typescript
+
+***
+
+FOLLOW ALONG IN /intro/src/index.ts
